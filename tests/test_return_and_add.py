@@ -1,6 +1,7 @@
+# Teste que adiciona um produto ao carrinho e retorna para adicionar outro
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
 
 driver = webdriver.Chrome()
 driver.implicitly_wait(5)

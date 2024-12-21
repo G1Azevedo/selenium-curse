@@ -1,3 +1,5 @@
+# Teste inicial, efetuando um login válido
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 

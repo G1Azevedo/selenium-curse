@@ -1,6 +1,7 @@
+# Teste extra que compra os produtos no carrinho
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
 
 driver = webdriver.Chrome()
 driver.implicitly_wait(5)
